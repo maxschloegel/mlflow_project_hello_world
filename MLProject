@@ -1,0 +1,8 @@
+name: Hello_World
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    parameters:
+      name: str
+    command: "python main.py {name}"

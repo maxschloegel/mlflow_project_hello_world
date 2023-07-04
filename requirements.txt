@@ -1,0 +1,2 @@
+virtualenv==20.23.1
+mlflow==2.4.1
